@@ -135,3 +135,12 @@ body {
     color: #343a40;
     background-color: #fff;
   }
+
+  #welcome-section {
+    background-image: url('rutgers-university-new-brunswick-2.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white; /* White text looks good on a dark background */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add some shadow for better readability */
+    padding: 100px 0; /* Add more padding to make the section bigger */
+}
