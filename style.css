@@ -136,11 +136,21 @@ body {
     background-color: #fff;
   }
 
-  #welcome-section {
-    background-image: url('rutgers-university-new-brunswick-2.jpg');
-    background-size: cover;
-    background-position: center;
-    color: white; /* White text looks good on a dark background */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add some shadow for better readability */
-    padding: 100px 0; /* Add more padding to make the section bigger */
+
+
+#rizz {
+  /* The image used */
+  background-image: url("rutgers-university-new-brunswick-2.jpg");
+
+  /* Set a specific height */
+  min-height: 800px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin-left: -10px;
+  margin-right: -10px;
 }
