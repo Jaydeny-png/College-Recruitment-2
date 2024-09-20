@@ -154,3 +154,22 @@ body {
   margin-left: -10px;
   margin-right: -10px;
 }
+
+
+
+  /* Adam N Code */
+.section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.section1 {
+  background-color: rgb(202, 202, 202);
+}
+
+
+
+
+
+
