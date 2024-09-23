@@ -171,3 +171,8 @@ h1 {
 }
 
 
+.carousel-img {
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto; /* Centers the image */
+}
